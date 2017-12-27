@@ -4,9 +4,9 @@
 // Engineer: 
 // 
 // Create Date: 10/31/2017 01:15:34 PM
-// Design Name: 
+// Design Name: junwoo seo
 // Module Name: IMEM
-// Project Name: 
+// Project Name: mips
 // Target Devices: 
 // Tool Versions: 
 // Description: 
