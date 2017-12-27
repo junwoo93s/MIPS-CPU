@@ -4,9 +4,9 @@
 // Engineer: 
 // 
 // Create Date: 11/14/2017 01:24:58 PM
-// Design Name: 
+// Design Name: junwoo seo
 // Module Name: Dmem
-// Project Name: 
+// Project Name: mips
 // Target Devices: 
 // Tool Versions: 
 // Description: 
