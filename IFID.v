@@ -4,9 +4,9 @@
 // Engineer: 
 // 
 // Create Date: 10/31/2017 01:23:01 PM
-// Design Name: 
+// Design Name: junwoo seo
 // Module Name: IFID
-// Project Name: 
+// Project Name: mips
 // Target Devices: 
 // Tool Versions: 
 // Description: 
