@@ -4,9 +4,9 @@
 // Engineer: 
 // 
 // Create Date: 10/31/2017 03:51:23 PM
-// Design Name: 
+// Design Name: junwoo seo
 // Module Name: IDEXE_
-// Project Name: 
+// Project Name: mips
 // Target Devices: 
 // Tool Versions: 
 // Description: 
