@@ -4,9 +4,9 @@
 // Engineer: 
 // 
 // Create Date: 11/29/2017 04:46:59 PM
-// Design Name: 
+// Design Name: junwoo seo
 // Module Name: WMUX
-// Project Name: 
+// Project Name: mips
 // Target Devices: 
 // Tool Versions: 
 // Description: 
